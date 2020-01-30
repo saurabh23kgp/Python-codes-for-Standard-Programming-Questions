@@ -10,8 +10,8 @@ ways of dividing the circle now are total ways in which these right 2n-2k-2 poin
 2k( left) points can divide the left half. So if ways(n)=ways(2k)*ways(2n-2k-2)
 
 Now take 2 left most points ( such that the chord joining them towards the left most extreme of the circle, make drawing).
-Towards the left of this chord are 0 points and towards the right of this chord are 2n-2 points. So now when 2*0 (2k)=0 points are towards
-the left, then ways(n)=ways(2*0)*ways(2n-2*0-2). 
+Towards the left of this chord are 0 points and towards the right of this chord are 2n-2 points.
+So now when 2x0 (2k)=0 points are towards the left, then ways(n)=ways(2x0)*ways(2n-2x0-2). 
 
 Hence for any k:- ways(n)=ways(2k)ways(2n-2k-2)...(1)
 
