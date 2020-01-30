@@ -1,5 +1,5 @@
 class Solution:
-    # @param A : integer
+    # @param A : integer(total chords)
     # @return an integer
     def chordCnt(self, A):
         n=2*A
