@@ -15,7 +15,7 @@ So now when 2x0 (2k)=0 points are towards the left, then ways(n)=ways(2x0)*ways(
 
 Hence for any k:- ways(n)=ways(2k)ways(2n-2k-2)...(1)
 
-Now vary k from 0 to 2n-2 ( think why 2n-2 by putting 0 points to the right of right most point). Add every rhs accordingly to ways(n). You get
+Now vary k from 0 to 2n-2 ( think why 2n-2 by putting 0 points to the right of right most point). Add every rhs in (1) accordingly to ways(n). You get
 your result :) 
 
 
