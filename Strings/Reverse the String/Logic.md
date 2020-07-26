@@ -1,0 +1,1 @@
+Even though its a straight forward question, still I will write down the logic soon. Also, in the code, I have explained a basic concept related to this question which is veru useful in solving this question an also it is quite generic a concept which one shoul know while manupulating strings.
